@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Similar Hotstar</title>
+    <title>Movie Bomma</title>
     <style>
         body {
             margin: 0;
@@ -156,7 +156,7 @@
 <body>
 
 <div class="navbar">
-    <div class="logo">SimilarHotstar</div>
+    <div class="logo">Movie Bomma</div>
     <div class="nav-links">
         <a href="#">TV</a>
         <a href="#">Movies</a>
